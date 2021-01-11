@@ -43,4 +43,3 @@ def consolidate_cart(cart)
 end
 print new_cart
 end
-
