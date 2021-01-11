@@ -25,3 +25,4 @@ def consolidate_cart(cart)
     end
   end
   receipt.uniq
+end
